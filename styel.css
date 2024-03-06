@@ -1,0 +1,22 @@
+/** @format */
+
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: white;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+    border: 1px solid lightgreen ;
+    border-radius: 1px;
+
+
+}
